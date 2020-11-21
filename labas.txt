@@ -1,4 +1,10 @@
 labas
 Vaiva sako sveikos!
+<<<<<<< HEAD
 trecia eilute
 bandom konfliktuot
+=======
+Vaiva: kuku :)
+Jurgita sako kas cia daros, kas cia daros, prasidejo grybu karas!
+
+>>>>>>> 80099a9a09d9b6ba2c40defce43326e5ae0d3226
