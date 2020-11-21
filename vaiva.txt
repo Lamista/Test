@@ -1,6 +1,10 @@
 Hola amigas!
+<<<<<<< HEAD
 
 Ryt sekmadienis!
+=======
+Holare voo cantare oooo
+>>>>>>> 1de54d1f6c2b3d4865d41e5ff43a61778d40bc47
 sadasdas
 sadewwerejfnvjkdfnvjk
 
